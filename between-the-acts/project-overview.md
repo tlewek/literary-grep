@@ -30,11 +30,11 @@ Characters are also actors in the play. In these cases, I’ve given their real 
 
 The several fragments attributed to Mrs. Lynn Jones are more ambiguous than presented here. Woolf ostensibly places this character in conversation with Mrs. Etty Springett—Lynne and Etty are widows, who share a house, attending the play together—but it seems that former merely talks at the latter.
 
-Someone v. audience v. villagers
+“Someone,” “audience,” “villagers,” “two cronies” are indistinct but accurate values.
 
 ### Setting
 
-Woolf often highlights the setting of an uttered fragment by providing details in the text adjacent to the fragment itself (e.g. “between the trees,” “among the bushes”). More often, however, she does not, and I’ve had to rely on a small, controlled vocabulary (e.g. “stage,” “outdoor theater”) to generate this data.
+Woolf often highlights the setting of an uttered fragment by providing details in the text adjacent to the fragment itself (e.g. “between the trees,” “among the bushes”). More often, however, she does not, and I’ve had to rely on a small, controlled vocabulary (e.g.  “outdoor theater (stage)” or “outdoor theater (seats)”) to generate this data.
 
 ## Works Cited
 
